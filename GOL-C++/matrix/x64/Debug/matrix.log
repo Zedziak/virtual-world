@@ -1,0 +1,3 @@
+﻿  Zwierze.cpp
+C:\Users\Zedziak\Desktop\matrix\matrix\Zwierze.cpp(238): warning C4715: "Zwierze::stworzOrganizm”: niewszystkie ścieżki kodu zwracają wartość
+  matrix.vcxproj -> C:\Users\Zedziak\Desktop\matrix\x64\Debug\matrix.exe
